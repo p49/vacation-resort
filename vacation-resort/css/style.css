@@ -326,8 +326,6 @@ li.times:hover {
 footer p {
 	margin: 18px 0 15px; /* change to em */
 	font-size: 1.1em;
-	font-variant: small-caps;
-	color: pink;
 }
 
 footer {
