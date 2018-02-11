@@ -142,7 +142,7 @@ a.nav-name {
 .hamburger {
 	cursor: pointer;
 	display: block;
-	padding: 1em;
+	padding: 1em 0 .5em 0;
 }
 
 .menu-nav {
@@ -324,15 +324,17 @@ li.times:hover {
 **********************/
 
 footer p {
-	margin: 15px 0 15px; /* change to em */
+	margin: 18px 0 15px; /* change to em */
 	font-size: 1.1em;
+	font-variant: small-caps;
 }
 
 footer {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	font-variant: small-caps;
+	
+	
 }
 
 
