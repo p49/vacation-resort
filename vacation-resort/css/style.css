@@ -173,6 +173,10 @@ img {
 	display: inline-block;
 }
 
+.image-text-bottom:last-child {
+	margin-bottom: 1.5em;
+}
+
 /********************
 	INDEX
 *********************/
