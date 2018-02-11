@@ -298,7 +298,7 @@ span.activity1 {
 	font-variant: small-caps;
 	font-size: 1.3em;
 	margin-bottom: .5em;
-	margin-top: .5em;
+	margin-top: .3em;
 	border-bottom: 1px solid;
 }
 
@@ -320,7 +320,7 @@ li.times:hover {
 **********************/
 
 footer p {
-	margin: 25px 0 15px; /* change to em */
+	margin: 15px 0 15px; /* change to em */
 	font-size: 1.1em;
 }
 
